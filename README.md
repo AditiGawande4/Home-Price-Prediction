@@ -1,5 +1,5 @@
 # Home-Price-Prediction
-![]()
+![](Output.jpg)
 
 In this project I have built a real estate price prediction website. First I built a model by applying sklearn and linear regression using banglore home prices dataset from kaggle.com . Then wrote a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms, bathrooms and location, finally it calls python flask server to retrieve the predicted price.
 
